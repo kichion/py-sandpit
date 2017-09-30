@@ -1,0 +1,15 @@
+{
+  "name": "pysandpit",
+  "version": "1.0.0",
+  "description": "A barebones Django app, which can easily be deployed to Heroku.",
+  "main": "index.js",
+  "dependencies": {
+    "material-components-web": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
